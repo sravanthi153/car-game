@@ -1,7 +1,6 @@
 """
-@author: Randhir Kumar
-@email: randhirkumarsonukumar@gmail.com
-@date: 13-september-2020
+@author: Sravanthi Nuthanapati
+@email: sravanthinuthanapati57@gmail.com
 """
 import random
 from time import sleep
